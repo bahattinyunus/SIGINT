@@ -1,3 +1,9 @@
+"""
+SIGINT Hub - Signal Generator
+Developer: Bahattin Yunus Çetin (IT Architect)
+Location: Trabzon / Of
+GitHub: https://github.com/bahattinyunus
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 

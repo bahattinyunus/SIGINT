@@ -1,3 +1,9 @@
+"""
+SIGINT Hub - FFT Analyzer
+Developer: Bahattin Yunus Çetin (IT Architect)
+Location: Trabzon / Of
+GitHub: https://github.com/bahattinyunus
+"""
 import numpy as np
 
 def perform_fft(signal, sampling_rate):
